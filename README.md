@@ -33,14 +33,8 @@
 
 ***
 
-
 <a href="#jump_2">来个页内跳转</a>
 
-
-
-**![小新库](https://s1.ax1x.com/2020/05/26/tiVwse.png)**
-
-***
 
 **更多请参考**：
 [Md2All版本更新记录](https://www.cnblogs.com/garyyan/p/9238405.html)
@@ -51,13 +45,17 @@
 111
 
 # ❤ Donate ❤ (推荐使用 支付宝 或者 微信)
- 
-| 小新库                                                                                                | ----------------------------------------------------------------------------------------------------- | 
-| <img width="360px" src="https://s1.ax1x.com/2020/05/15/Ysg6dH.jpg"/> |
 
 如果你觉得小新库对你有帮助，欢迎赞赏，有你的支持，小新库一定会越来越好！
-<div align="center">
+<div>
 <a href="https://s1.ax1x.com/2020/05/26/tiVwse.png">
 <img width="300" src="https://camo.githubusercontent.com/be06971baed9105260e0ed5c03746108c30b527f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67"/>
 </a>
 </div>
+
+***
+
+下面的是我的公众号二维码图片，欢迎关注。  
+![图注:小新库](https://s1.ax1x.com/2020/05/15/Ysg6dH.jpg) 
+
+***
