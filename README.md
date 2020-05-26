@@ -58,4 +58,4 @@
  
 | 小新库                                                                                                | 赞赏码
 | ----------------------------------------------------------------------------------------------------- | --|
-| <img width="360px" src="https://s1.ax1x.com/2020/05/15/Ysg6dH.jpg"/> |<img width="250px" src="https://s1.ax1x.com/2020/05/26/tiVwse.png">
+| <img width="360px" src="https://s1.ax1x.com/2020/05/15/Ysg6dH.jpg"/> |<img width="220px" src="https://s1.ax1x.com/2020/05/26/tiVwse.png">
