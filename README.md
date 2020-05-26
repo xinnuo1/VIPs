@@ -28,6 +28,17 @@
 
 ```
 
+## 百度网盘（邮箱登陆）
+
+```
+
+5.26
+账号anstdndqu密码wktbiuqd
+账号ljjtkcqmb密码odeawdir
+账号snyprjzbp密码vimdnpvy
+
+```
+
 ## 企查查
 
 ```
