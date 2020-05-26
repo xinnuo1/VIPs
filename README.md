@@ -59,3 +59,9 @@
 | 小新库                                                                                                | 赞赏码
 | ----------------------------------------------------------------------------------------------------- | --|
 | <img width="360px" src="https://s1.ax1x.com/2020/05/15/Ysg6dH.jpg"/> |<img width="220px" src="https://s1.ax1x.com/2020/05/26/tiVwse.png">
+
+<div align="center">
+<a href="https://s1.ax1x.com/2020/05/26/tiVwse.png">
+<img width="300" src="https://camo.githubusercontent.com/be06971baed9105260e0ed5c03746108c30b527f/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f64656661756c742d6f72616e67652e706e67"/>
+</a>
+</div>
