@@ -48,6 +48,11 @@
 ## 迅雷
 
 ```
+6.5
+账号pqwxsphut密码vip0203
+账号spmrfvmfd密码vip0203
+账号fpduhiatn密码vip0203
+
 6.4
 账号iildrikkc密码vip0203
 账号eqbydltru密码b198091
