@@ -13,6 +13,10 @@
 ## 百度网盘（微博登陆）
 
 ```
+6.5
+选微博登录eubohw70@touzi580.com密码1m6n7fiuos
+选微博登录526w6fl8@touzi580.com密码3wu702bocl
+
 6.4
 选微博登录kk9fk4ao4685@game.weibo.com密码an02px7yh
 选微博登录kyzobpryfbc1@game.weibo.com密码05j85245j
@@ -33,11 +37,6 @@
 选微博登录13657382760密码aypqqh766
 选微博登录knj162125qav@game.weibo.com密码0f1pj6xln
 选微博登录kqmub3cjj9o9@game.weibo.com密码z80b6u352
-
-6.1
-账号一:13973514161,二:15671102834,三:18817073744,四:15807421671,五:13406365040
-密码一:zvnfc6094,二:ortx999403,三:zxrpkr734,四:vvnspd984,五:xiao123
-账号：18420395260 密码：3tdli7f511（优先使用这个）
 
 ```
 
