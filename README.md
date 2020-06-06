@@ -14,6 +14,8 @@
 
 ```
 6.6
+选账号密码登录ug7tyoz0@touzi580.com密码6r8say776z
+选账号密码登录vvq98683@touzi580.com密码4ppio8w3cj
 选账号密码登录gh6fphfi@touzi580.com密码8xwnun0kgb
 选账号密码登录htbttk846110@game.weibo.com密码ozhf72311
 
@@ -52,6 +54,11 @@
 ## 迅雷
 
 ```
+6.6
+账号qiaoyan458密码54558660
+账号dongxian330密码54558660
+账号jiadang464密码54558660
+
 6.5
 账号pqwxsphut密码vip0203
 账号spmrfvmfd密码vip0203
@@ -75,21 +82,14 @@
 账号mnqnjpnyj密码ydacyphn
 账号essbjqdkh密码dygggibv
 
-6.2
-账号kezhang363密码54558660
-账号xieye106密码54558660
-账号zhangjia954密码54558660
-
-5.27
-账号zhuangdang430密码54558660
-账号xilie474密码54558660
-账号mushou413密码54558660
-
 ```
 
 ## 哔哩哔哩大会员
 
 ```
+6.6
+账号lb537352密码173248
+
 6.5
 账号tv033178密码653864
 
@@ -161,6 +161,10 @@
 ## 优酷土豆会员账号
 
 ```
+6.6
+选账号密码登录tuolu1599393@163.com密码km5555
+选账号密码登录tusha35951915@163.com密码km5555
+
 6.5
 选账号密码登录tuparang581237@163.com密码km5555
 选账号密码登录tuyuan553333@163.com密码km5555
@@ -169,39 +173,19 @@
 选账号密码登录puchui085774@163.com密码km5513
 选账号密码登录pucilu133199@163.com密码km5513
 
-6.3
-优酷
-dongfei7791595@163.com密码km6112
-gangxunjiashaca@163.com密码km6112
-lou11571393@163.com密码km6112
-meiguxingdan@163.com密码km6112
-meimeng119513@163.com密码km6112
-shanxian08824@163.com密码km6112
-tanne5759979@163.com密码km6112
-
-6.2
-选微博登录fcyrtk140236@game.weibo.com密码ivtb17647
-选微博登录dhyaip440139@game.weibo.com密码wpxi82456
 
 ```
 
 ## 芒果会员tv
 
 ```
+6.6
+选账号密码登录tuolu1599393@163.com密码km5555
+选账号密码登录tusha35951915@163.com密码km5555
+
 6.5
 选邮箱登录chuotu6293yu@163.com密码tttt5555
 选邮箱登录cmi66922112@163.com密码tttt5555
-
-6.3
-zhangfennuolu@163.com密码tttt5555
-naopusishang69@163.com密码tttt5555
-zhuo8500669732@163.com密码tttt5555
-jingzhuozhiji64@163.com密码tttt5555
-chenlian23089680@163.com密码tttt5555
-
-6.2
-选邮箱登录bidou967@hotmail.com密码aa2345
-选邮箱登录bihan638@hotmail.com密码aa2345
 
 ```
 
