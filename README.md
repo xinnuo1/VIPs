@@ -13,6 +13,10 @@
 ## 百度网盘（微博登陆）
 
 ```
+6.6
+选账号密码登录gh6fphfi@touzi580.com密码8xwnun0kgb
+选账号密码登录htbttk846110@game.weibo.com密码ozhf72311
+
 6.5
 选微博登录3raou4kh@touzi580.com密码3xnb6ioo3w
 选微博登录5wykw7sz@touzi580.com密码0hzbgv0w8w
