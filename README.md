@@ -14,6 +14,8 @@
 
 ```
 6.7
+选微博登录ksidketvceup@game.weibo.com密码leje599jx
+选微博登录kghcdz4iiix4@game.weibo.com密码lguopx93n
 选微博登录19gu28so@touzi580.com密码8ifq45stoo
 选微博登录bctj1grl@touzi580.com密码0wfl0efr57
 
@@ -42,24 +44,15 @@
 选微博登录chengjiaozi91871@163.com密码kcnofts0lj
 选微博登录shuweituo114205@163.com密码afjzk60bse
 
-6.3
-账号：18420395260 密码：3tdli7f511
-15121784993   hhu8137（选择微博登录）
-15251781676    jcz476957（选择微博登录）
-18885933145    hs275586（选择微博登录）
-15273204310    vwpejn112（选择微博登录）
-15073765412    mxltdo417（选微博登录）
-
-6.2
-选微博登录13657382760密码aypqqh766
-选微博登录knj162125qav@game.weibo.com密码0f1pj6xln
-选微博登录kqmub3cjj9o9@game.weibo.com密码z80b6u352
 
 ```
 
 ## 迅雷
 
 ```
+6.7
+账号：xugyl2bxdj 密码：kedheo
+
 6.6
 账号qiaoyan458密码54558660
 账号dongxian330密码54558660
@@ -69,24 +62,6 @@
 账号pqwxsphut密码vip0203
 账号spmrfvmfd密码vip0203
 账号fpduhiatn密码vip0203
-
-6.4
-账号iildrikkc密码vip0203
-账号eqbydltru密码b198091
-账号jmrvlfwtb密码vip0203
-账号nqabkmbdr密码vip0203
-
-6.3
-15800190339    密码frh51515
-1627458556   密：49k57e
-15220875742   密码sii86423
-1627409907    密：z85854
-13123672528     密码Wbdvu3837
-13054324516    密码Ctift8628
-15728841328   密码jgo23626
-13411349478    密码 orc85369
-账号mnqnjpnyj密码ydacyphn
-账号essbjqdkh密码dygggibv
 
 ```
 
@@ -167,6 +142,10 @@
 ## 优酷土豆会员账号
 
 ```
+6.7
+选账号密码登录tuohuibeilin@163.com密码km5555
+选账号密码登录tuojiao5913195@163.com密码km5555
+
 6.6
 选账号密码登录tuolu1599393@163.com密码km5555
 选账号密码登录tusha35951915@163.com密码km5555
@@ -174,11 +153,6 @@
 6.5
 选账号密码登录tuparang581237@163.com密码km5555
 选账号密码登录tuyuan553333@163.com密码km5555
-
-6.4
-选账号密码登录puchui085774@163.com密码km5513
-选账号密码登录pucilu133199@163.com密码km5513
-
 
 ```
 
