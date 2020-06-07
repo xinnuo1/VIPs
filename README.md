@@ -14,6 +14,8 @@
 
 ```
 6.7
+选微博登录kbxw0eznoi0k@game.weibo.com密码vw64homc2
+选微博登录kflf7n987x0g@game.weibo.com密码a47017s7n
 选微博登录ksidketvceup@game.weibo.com密码leje599jx
 选微博登录kghcdz4iiix4@game.weibo.com密码lguopx93n
 选微博登录19gu28so@touzi580.com密码8ifq45stoo
@@ -51,6 +53,9 @@
 
 ```
 6.7
+账号youduan349密码54558660
+账号tangzai324密码54558660
+zongquan148密码54558660
 账号：xugyl2bxdj 密码：kedheo
 
 6.6
@@ -145,6 +150,8 @@
 6.7
 选账号密码登录tuohuibeilin@163.com密码km5555
 选账号密码登录tuojiao5913195@163.com密码km5555
+选微博登录dxycju213983@game.weibo.com密码dzwy58764
+选微博登录dhyaip440139@game.weibo.com密码wpxi82456
 
 6.6
 选账号密码登录tuolu1599393@163.com密码km5555
@@ -159,6 +166,10 @@
 ## 芒果会员tv
 
 ```
+6.7
+选邮箱登录chuibgku167610@163.com密码tttt5555
+选邮箱登录chenudak74305@163.com密码tttt5555
+
 6.6
 选账号密码登录tuolu1599393@163.com密码km5555
 选账号密码登录tusha35951915@163.com密码km5555
