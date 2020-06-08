@@ -14,10 +14,13 @@
 
 ```
 6.8
-选微博登录：15507403058  密码：maicdk.com 
-选微博登录kam60vj6n2pq@game.weibo.com密码9h9qxefta
-选微博登录laoshu00100yl@sina.com密码19850801
-选微博登录kzx7zuo0qm3o@game.weibo.com密码efh2dxdrr
+选微博登录1jq5f3yp@touzi580.com密码0net30z9g1
+选微博登录pdokz9x4@touzi580.com密码1vd9tod1k8
+选微博登录vqezzu965597@game.weibo.com密码atpl45072
+选微博登录：15507403058  密码：maicdk.com （已测，失效，勿试）
+选微博登录kam60vj6n2pq@game.weibo.com密码9h9qxefta（已测，失效，勿试）
+选微博登录laoshu00100yl@sina.com密码19850801（已测，失效，勿试）
+选微博登录kzx7zuo0qm3o@game.weibo.com密码efh2dxdrr（已测，失效，勿试）
 
 6.7
 选微博登录kbxw0eznoi0k@game.weibo.com密码vw64homc2
@@ -34,24 +37,6 @@
 选账号密码登录vvq98683@touzi580.com密码4ppio8w3cj
 选账号密码登录gh6fphfi@touzi580.com密码8xwnun0kgb
 选账号密码登录htbttk846110@game.weibo.com密码ozhf72311
-
-6.5
-选微博登录3raou4kh@touzi580.com密码3xnb6ioo3w
-选微博登录5wykw7sz@touzi580.com密码0hzbgv0w8w
-选微博登录mzf7wl27@touzi580.com密码5xxtedeu3x
-选微博登录0en0lykp@touzi580.com密码5mhjrrquw4
-选微博登录eubohw70@touzi580.com密码1m6n7fiuos
-选微博登录526w6fl8@touzi580.com密码3wu702bocl
-账号15507403058  密码 maicdk.com
-
-6.4
-选微博登录kk9fk4ao4685@game.weibo.com密码an02px7yh
-选微博登录kyzobpryfbc1@game.weibo.com密码05j85245j
-选微博登录huchi2275@163.com密码uimum96rx8
-选微博登录baoji783279@163.com密码jdyuucv4u8
-选微博登录chengjiaozi91871@163.com密码kcnofts0lj
-选微博登录shuweituo114205@163.com密码afjzk60bse
-
 
 ```
 
