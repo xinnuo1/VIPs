@@ -14,6 +14,7 @@
 
 ```
 6.9
+选微博登录kpr70rwfjbve@game.weibo.com密码3p4c5yuxa
 选微博登录kng9cxmuoikn@game.weibo.com密码8vcu9kegu
 
 6.8
@@ -33,35 +34,20 @@
 选微博登录19gu28so@touzi580.com密码8ifq45stoo
 选微博登录bctj1grl@touzi580.com密码0wfl0efr57
 
-6.6
-账号：16521714230密码：kou6381（微博登陆）
-账号：17697327784密码：jun123123（微博登陆）
-选账号密码登录ug7tyoz0@touzi580.com密码6r8say776z
-选账号密码登录vvq98683@touzi580.com密码4ppio8w3cj
-选账号密码登录gh6fphfi@touzi580.com密码8xwnun0kgb
-选账号密码登录htbttk846110@game.weibo.com密码ozhf72311
-
 ```
 
 ## 迅雷
 
 ```
+6.9
+账号anqiwktxq密码vip0203
+账号svdsjndfm密码vip0203
+
 6.8
 账号falufgvpd密码f531842
 账号cdpkqjwjq密码vip0203
 账号icxlndpfq密码a568065
 账号qnldydets密码g778378
-
-6.7
-账号youduan349密码54558660
-账号tangzai324密码54558660
-zongquan148密码54558660
-账号：xugyl2bxdj 密码：kedheo
-
-6.6
-账号qiaoyan458密码54558660
-账号dongxian330密码54558660
-账号jiadang464密码54558660
 
 ```
 
@@ -130,6 +116,10 @@ zongquan148密码54558660
 ## 优酷土豆会员账号
 
 ```
+6.9
+选账号密码登录tujia39913579@163.com密码km5555
+选账号密码登录tunche39159393@163.com密码km5555
+
 6.8
 选账号密码登录tuocang595555@163.com密码km5555
 选账号密码登录tuochi155333@163.com密码km5555
