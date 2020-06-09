@@ -13,6 +13,9 @@
 ## 百度网盘（微博登陆）
 
 ```
+6.9
+选微博登录kng9cxmuoikn@game.weibo.com密码8vcu9kegu
+
 6.8
 选微博登录1jq5f3yp@touzi580.com密码0net30z9g1
 选微博登录pdokz9x4@touzi580.com密码1vd9tod1k8
