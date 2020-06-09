@@ -14,6 +14,8 @@
 
 ```
 6.9
+选微博登录13548863109密码faymyv979
+选微博登录13607364732密码inonli294
 选微博登录kpr70rwfjbve@game.weibo.com密码3p4c5yuxa
 选微博登录kng9cxmuoikn@game.weibo.com密码8vcu9kegu
 
@@ -26,20 +28,15 @@
 选微博登录laoshu00100yl@sina.com密码19850801（已测，失效，勿试）
 选微博登录kzx7zuo0qm3o@game.weibo.com密码efh2dxdrr（已测，失效，勿试）
 
-6.7
-选微博登录kbxw0eznoi0k@game.weibo.com密码vw64homc2
-选微博登录kflf7n987x0g@game.weibo.com密码a47017s7n
-选微博登录ksidketvceup@game.weibo.com密码leje599jx
-选微博登录kghcdz4iiix4@game.weibo.com密码lguopx93n
-选微博登录19gu28so@touzi580.com密码8ifq45stoo
-选微博登录bctj1grl@touzi580.com密码0wfl0efr57
-
 ```
 
 ## 迅雷
 
 ```
 6.9
+qiangyi691密码54558660
+账号miju324密码54558660
+账号feigua841密码54558660
 账号anqiwktxq密码vip0203
 账号svdsjndfm密码vip0203
 
@@ -135,6 +132,10 @@
 ## 芒果会员tv
 
 ```
+6.9
+选微博登录goudianzpr019822@163.com密码tttt5555
+选微博登录huijinqij73788@163.com密码tttt5555
+
 6.8
 选微博登录yanqing014306@163.com密码tttt5555
 选微博登录jihanjiemh8850@163.com密码tttt5555
