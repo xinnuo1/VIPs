@@ -48,6 +48,8 @@
 
 ```
 6.10
+账号1157228559密码ufehykxn
+账号1157228537密码dvepilyo
 账号1157228533密码xvxdeimc
 
 6.9
@@ -150,6 +152,10 @@ hqls3299密码422802
 ## 芒果会员tv
 
 ```
+6.10
+选微博登录douxidons85329@163.com密码tttt5555
+选微博登录renyunmijb862744@163.com密码tttt5555
+
 6.9
 选微博登录goudianzpr019822@163.com密码tttt5555
 选微博登录huijinqij73788@163.com密码tttt5555
@@ -157,10 +163,6 @@ hqls3299密码422802
 6.8
 选微博登录yanqing014306@163.com密码tttt5555
 选微博登录jihanjiemh8850@163.com密码tttt5555
-
-6.7
-选邮箱登录chuibgku167610@163.com密码tttt5555
-选邮箱登录chenudak74305@163.com密码tttt5555
 
 ```
 
