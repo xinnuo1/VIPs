@@ -14,6 +14,9 @@
 ## 百度网盘（微博登陆）
 
 ```
+6.11
+选微博登录zhai075751@163.com密码vipfen328
+
 6.10
 选微博登录ku6thb0mhp86@game.weibo.com密码t7e9nhubv
 选微博登录kl1effaov9m7@game.weibo.com密码y6nvcijls
@@ -35,20 +38,15 @@
 选微博登录kpr70rwfjbve@game.weibo.com密码3p4c5yuxa
 选微博登录kng9cxmuoikn@game.weibo.com密码8vcu9kegu
 
-6.8
-选微博登录1jq5f3yp@touzi580.com密码0net30z9g1
-选微博登录pdokz9x4@touzi580.com密码1vd9tod1k8
-选微博登录vqezzu965597@game.weibo.com密码atpl45072
-选微博登录：15507403058  密码：maicdk.com （已测，失效，勿试）
-选微博登录kam60vj6n2pq@game.weibo.com密码9h9qxefta（已测，失效，勿试）
-选微博登录laoshu00100yl@sina.com密码19850801（已测，失效，勿试）
-选微博登录kzx7zuo0qm3o@game.weibo.com密码efh2dxdrr（已测，失效，勿试）
-
 ```
 
 ## 迅雷
 
 ```
+6.11
+账号1157228711密码rjduyrnv
+账号1157228626密码yiyoazmc
+
 6.10
 账号1157228570密码wcccypjw
 账号1157228492密码qixgxhoo
@@ -63,12 +61,6 @@ qiangyi691密码54558660
 账号feigua841密码54558660
 账号anqiwktxq密码vip0203
 账号svdsjndfm密码vip0203
-
-6.8
-账号falufgvpd密码f531842
-账号cdpkqjwjq密码vip0203
-账号icxlndpfq密码a568065
-账号qnldydets密码g778378
 
 ```
 
@@ -175,10 +167,6 @@ hqls3299密码422802
 6.9
 选微博登录goudianzpr019822@163.com密码tttt5555
 选微博登录huijinqij73788@163.com密码tttt5555
-
-6.8
-选微博登录yanqing014306@163.com密码tttt5555
-选微博登录jihanjiemh8850@163.com密码tttt5555
 
 ```
 
