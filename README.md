@@ -14,6 +14,10 @@
 ## 百度网盘（微博登陆）这几天百度网盘风控在升级 免费账号登录有点困难 多尝试几个
 
 ```
+6.12
+选微博登录ktl1fqbfucvz@game.weibo.com密码ulc7wa3n5
+选微博登录kj51361ltjsu@game.weibo.com密码ij3n3qet1
+
 6.11
 选微博登录kqm6ucj50t9e@game.weibo.com密码16t9crzab
 选微博登录kuhc34v75xox@game.weibo.com密码1s3q9i175
@@ -41,19 +45,15 @@
 帐号：15080882747 密码：ekzelv662
 选微博登录jiudiaoc8218@163.com密码vipfen331
 
-6.9
-账号：16504204514密码：akq2650598
-账号：17114181182密码：ndk0682568
-选微博登录13548863109密码faymyv979
-选微博登录13607364732密码inonli294
-选微博登录kpr70rwfjbve@game.weibo.com密码3p4c5yuxa
-选微博登录kng9cxmuoikn@game.weibo.com密码8vcu9kegu
-
 ```
 
 ## 迅雷
 
 ```
+6.12
+账号eo7r0iks0f密码osqcagka
+账号lau6fro258密码dcgf7589
+
 6.11
 账号1157228711密码rjduyrnv
 账号1157228626密码yiyoazmc
@@ -65,13 +65,6 @@
 账号1157228559密码ufehykxn
 账号1157228537密码dvepilyo
 账号1157228533密码xvxdeimc
-
-6.9
-qiangyi691密码54558660
-账号miju324密码54558660
-账号feigua841密码54558660
-账号anqiwktxq密码vip0203
-账号svdsjndfm密码vip0203
 
 ```
 
