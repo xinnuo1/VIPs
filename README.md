@@ -15,6 +15,8 @@
 
 ```
 6.15
+选微博登录lcvcp8gup2nt@game.weibo.com密码m7p178hce
+选微博登录lpi2xrthb9nn@game.weibo.com密码2jez945qk
 选微博登录lbj3j700ksid@game.weibo.com密码p3qj9fnsf
 选微博登录lasan33thclm@game.weibo.com密码12f8pdho6
 
@@ -44,6 +46,8 @@ oai4ftu@163.com 密码j3m5e45
 
 ```
 6.15
+账号1157266396密码jklqukad
+账号1157266486密码xbgqcbuv
 账号1157266395密码uerrzzmi
 账号1157266291密码sapvgqtw
 账号1157266394密码joddyemh
@@ -58,6 +62,11 @@ oai4ftu@163.com 密码j3m5e45
 ## 哔哩哔哩大会员
 
 ```
+6.15
+zng4320密码qwe123
+vzp5435密码860932
+qaz4437密码664789
+
 6.14
 账号：otr3878   密码214428
 账号：nmrs4315  密码132380
@@ -110,12 +119,14 @@ kzq5827密码817252
 
 ```
 6.15
+选微博登录alzkig438673@game.weibo.com密码teco82811
+选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
 选账号密码登录xianbei317137@163.com密码km5118
 选账号密码登录xianguzhuokan@163.com密码km5118
 
 6.11（优酷）
-选账号密码登录tulao8662424@163.com密码vipfen0604
-选账号密码登录tujiabaxingju@163.com密码km5555
+选账号密码登录tulao8662424@163.com密码vipfen0604（已测，失效，勿试）
+选账号密码登录tujiabaxingju@163.com密码km5555（已测，失效，勿试）
 
 ```
 
@@ -123,12 +134,14 @@ kzq5827密码817252
 
 ```
 6.15
+选微博登录hupinghef1661@163.com密码tttt5555
+选微博登录niexianjiaf713410@163.com密码tttt5555
 选微博登录chaochifuno43867@163.com密码tttt5555
 选微博登录miaobinvs829920@163.com密码tttt5555
 
 6.14
-选微博登录wanshuanga208113@163.com密码tttt5555
-选微博登录rendanjiu34187@163.com密码tttt5555
+选微博登录wanshuanga208113@163.com密码tttt5555（已测，失效，勿试）
+选微博登录rendanjiu34187@163.com密码tttt5555（已测，失效，勿试）
 
 ```
 
