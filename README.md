@@ -14,37 +14,24 @@
 ## 百度网盘（微博登陆）这几天百度网盘风控在升级 免费账号登录有点困难 多尝试几个
 
 ```
+6.16
+选微博登录luffuh07shiw@game.weibo.com密码hoqr21tu0
+
 6.15
 选微博登录lcvcp8gup2nt@game.weibo.com密码m7p178hce
 选微博登录lpi2xrthb9nn@game.weibo.com密码2jez945qk
 选微博登录lbj3j700ksid@game.weibo.com密码p3qj9fnsf
 选微博登录lasan33thclm@game.weibo.com密码12f8pdho6
 
-6.14
-tuzonghan63@163.com 密码kkk123456
-oai4ftu@163.com 密码j3m5e45
- w8s1u71@163.com 密码kkkdNxK7e
-15273945850 密码dyuzei087（选微博登录）
-18890338391 密码rqluni754（选微博登录）
-15065577609    ntt777287（选择微博登录）
-18349737372   sz778124（选择微博登录）
-13116373609     jjh3397（选择微博登录）
-15036804925   hh978619（选择微博登录）
-13178023896   ggg9747（选择微博登录）
-18349737372   sz778124（选择微博登录）
-13220309910   ggg3327（选择微博登录）
-15650813781   gg672624（选择微博登录）
-选微博登录klqqss245046@game.weibo.com密码mdkh78180
-账号：18602923471密码：qwert231
-账号：17888670220密码：pmn43390
-账号：18274465908密码：peuwoe293
-账号：17128223041密码：bffkda7258
-
 ```
 
 ## 迅雷
 
 ```
+6.16
+账号1157266398密码tatrifey
+账号1157266488密码xhaumown
+
 6.15
 账号1157266396密码jklqukad
 账号1157266486密码xbgqcbuv
@@ -52,10 +39,6 @@ oai4ftu@163.com 密码j3m5e45
 账号1157266291密码sapvgqtw
 账号1157266394密码joddyemh
 账号1157266481密码vhvwvhaa
-
-6.12
-账号eo7r0iks0f密码osqcagka
-账号lau6fro258密码dcgf7589
 
 ```
 
@@ -118,15 +101,15 @@ kzq5827密码817252
 ## 优酷土豆会员账号
 
 ```
+6.16
+选账号密码登录xianmao1191735@163.com密码km5118
+选账号密码登录xianrang55373@163.com密码km5118
+
 6.15
 选微博登录alzkig438673@game.weibo.com密码teco82811
 选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
 选账号密码登录xianbei317137@163.com密码km5118
 选账号密码登录xianguzhuokan@163.com密码km5118
-
-6.11（优酷）
-选账号密码登录tulao8662424@163.com密码vipfen0604（已测，失效，勿试）
-选账号密码登录tujiabaxingju@163.com密码km5555（已测，失效，勿试）
 
 ```
 
