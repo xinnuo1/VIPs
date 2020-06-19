@@ -14,6 +14,10 @@
 ## 百度网盘（微博登陆）这几天百度网盘风控在升级 免费账号登录有点困难 多尝试几个
 
 ```
+6.19
+选微博登录lin5veys2udl@game.weibo.com密码lan72r1mz
+选微博登录lgfgvwdre61x@game.weibo.com密码dl9aij4rt
+
 6.18
 选微博登录lat8n35z3hj7@game.weibo.com密码szp3xrgbv
 选微博登录lwvj1yuowegu@game.weibo.com密码7s9ui8xe8
@@ -33,6 +37,11 @@
 ## 迅雷
 
 ```
+6.19
+账号1157267330密码ibrbckpa
+账号1157267172密码eswcigze
+账号1157267328密码dqzkvdem
+
 6.18
 账号1157266991密码zswekdrs
 账号1157266992密码dbmuryat
@@ -100,6 +109,10 @@ qaz4437密码664789
 ## 优酷土豆会员账号
 
 ```
+6.19
+选微博登录alzkig438673@game.weibo.com密码teco82811
+选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
+
 6.17
 选微博登录alzkig438673@game.weibo.com密码teco82811
 选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
@@ -115,6 +128,10 @@ qaz4437密码664789
 ## 芒果会员tv
 
 ```
+6.19
+选微博登录tangbushaolun@163.com密码tttt5555
+选微博登录zhongyoulou@163.com密码tttt5555
+
 6.18
 选微博登录lugua73023169@163.com密码tttt5555
 选微博登录yifqdkv748856@163.com密码tttt5555
