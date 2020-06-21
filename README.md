@@ -14,43 +14,27 @@
 ## 百度网盘（微博登陆）这几天百度网盘风控在升级 免费账号登录有点困难 多尝试几个
 
 ```
+6.21
+选微博登录mp293524c3qd@game.weibo.com密码m5err29o4
+选微博登录mo3b931exx0g@game.weibo.com密码1kftnhp43
+
 6.20
 选微博登录mkiq2r0vb5sb@game.weibo.com密码8rm370qsg
 选微博登录mut5cjxzanps@game.weibo.com密码9rfmrf6i8
-
-6.19
-选微博登录lin5veys2udl@game.weibo.com密码lan72r1mz
-选微博登录lgfgvwdre61x@game.weibo.com密码dl9aij4rt
-
-6.18
-选微博登录lat8n35z3hj7@game.weibo.com密码szp3xrgbv
-选微博登录lwvj1yuowegu@game.weibo.com密码7s9ui8xe8
-选微博登录lv92hpwsfz3w@game.weibo.com密码l79j5ss00
-选微博登录lxylk3h4uv2y@game.weibo.com密码j06lz03pq
-选微博登录ll7jk473peu6@game.weibo.com密码rzapjedxl
-选微博登录ljhega8kry5l@game.weibo.com密码ytu8w5lma
 
 ```
 
 ## 迅雷
 
 ```
+6.21
+账号1157268409密码wrozsgyg
+账号1157268098密码gqnfqsjb
+账号1157268406密码mrrxrkag
+
 6.20
 账号1157268350密码npjnprgu
 账号1157268410密码lpeelmpf
-
-6.19
-账号1157267330密码ibrbckpa
-账号1157267172密码eswcigze
-账号1157267328密码dqzkvdem
-
-6.18
-账号1157266991密码zswekdrs
-账号1157266992密码dbmuryat
-账号1157267048密码tjtvhgdo
-账号1157266987密码vkgvtczd
-账号1157266774密码vdvndgcq
-账号1157266985密码ugwtovcw
 
 ```
 
@@ -106,15 +90,11 @@ qaz4437密码664789
 ## 优酷土豆会员账号
 
 ```
+6.21
+选微博登录alzkig438673@game.weibo.com密码teco82811
+选微博登录uscioe059297@game.weibo.com密码nkyd79432
+
 6.20
-选微博登录alzkig438673@game.weibo.com密码teco82811
-选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
-
-6.19
-选微博登录alzkig438673@game.weibo.com密码teco82811
-选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
-
-6.17
 选微博登录alzkig438673@game.weibo.com密码teco82811
 选微博登录tpeqcn252642@game.weibo.com密码kvgs11330
 
@@ -123,6 +103,10 @@ qaz4437密码664789
 ## 芒果会员tv
 
 ```
+6.21
+选微博登录kangguanfuyan@163.com密码tttt5555
+选微博登录sutao949108@163.com密码tttt5555
+
 6.20
 选微博登录tl8786361youyu@163.com密码tttt5555
 选微博登录ro8294822mush@163.com密码tttt5555
