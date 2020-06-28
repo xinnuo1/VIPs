@@ -30,12 +30,6 @@
 选微博登录liangmimi111111@sina.com密码111111（已测，失效，勿试）
 选微博登录liangtian0107@sina.com密码ilove20080629（已测，失效，勿试）
 
-6.22
-选微博登录my2yfg3489g7@game.weibo.com密码x841eg6j8
-选微博登录mgf3wlu5i1ex@game.weibo.com密码m5nirvgsq
-选微博登录loveggfever1@sina.com密码12345678
-选微博登录liangshuihe0224@sina.com密码7781060
-
 ```
 
 ## 迅雷
