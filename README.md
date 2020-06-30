@@ -35,19 +35,16 @@
 ## 迅雷
 
 ```
+6.30
+账号yanao650密码54558660
+账号cuju020密码54558660
+
 6.28
 账号sxunw1736密码ayiixzfw
 账号jpdtp9205密码uyihyfdi
 账号mrjze7675密码vtywgpwi
 账号fiowk1984密码tgfvvlin
 账号nruxo5064密码ytnfcabc
-
-6.24
-账号1157268379密码zzewwudk
-账号1157268525密码aepzywyx
-账号1157268381密码bublslfq
-账号1157268433密码mwccyosv
-账号1157268512密码tkldmjnj
 
 ```
 
@@ -95,11 +92,11 @@
 ## 优酷土豆会员账号
 
 ```
-6.28
-选微博登录zpjitg356162@game.weibo.com密码ywbn32218
-选微博登录uscioe059297@game.weibo.com密码nkyd79432
+6.30
+选账号密码登录biluetanbaque@163.com密码km6112
+选账号密码登录binuo5593955@163.com密码km6112
 
-6.24
+6.28
 选微博登录zpjitg356162@game.weibo.com密码ywbn32218
 选微博登录uscioe059297@game.weibo.com密码nkyd79432
 
