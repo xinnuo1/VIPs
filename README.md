@@ -36,6 +36,9 @@
 
 ```
 7.2
+账号xunjiu045密码54558660
+账号hekui373密码54558660
+账号keqin288密码54558660
 账号xianyuan906密码54558660
 账号shunguai042密码54558660
 
@@ -95,34 +98,26 @@
 ## 优酷土豆会员账号
 
 ```
-7.1
+7.2
 选微博登录bykeco719875@game.weibo.com密码wuvo65213
 选微博登录weurvx401702@game.weibo.com密码bxzd90539
 
-6.30
-选账号密码登录biluetanbaque@163.com密码km6112
-选账号密码登录binuo5593955@163.com密码km6112
-
-6.28
-选微博登录zpjitg356162@game.weibo.com密码ywbn32218
-选微博登录uscioe059297@game.weibo.com密码nkyd79432
+7.1
+选微博登录bykeco719875@game.weibo.com密码wuvo65213
+选微博登录weurvx401702@game.weibo.com密码bxzd90539
 
 ```
 
 ## 芒果会员tv
 
 ```
+7.2
+选微博登录q15468190bimu2708@163.com密码tttt5555
+选微博登录luanweng4385@163.com密码tttt5555
+
 7.1
 选微博登录i60058486gukangc@163.com密码tttt5555
 选微博登录sx05805732ka@163.com密码tttt5555
-
-6.28
-选微博登录kd75681698aosh@163.com密码tttt5555
-选微博登录f0333689qiaog@163.com密码tttt5555
-
-6.24
-选微博登录ziinm36020@163.com密码tttt5555
-选微博登录agqk52428906@163.com密码tttt5555
 
 ```
 
