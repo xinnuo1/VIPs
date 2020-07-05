@@ -35,6 +35,11 @@
 ## 迅雷
 
 ```
+7.5
+账号qiangbeng580密码54558660
+账号tuocong395密码54558660
+账号zhunlang252密码54558660
+
 7.4
 账号kanye309密码54558660
 账号kangkong963密码54558660
@@ -54,6 +59,9 @@
 ## 哔哩哔哩大会员
 
 ```
+7.5
+账号lpwl7589密码738731
+
 7.4
 账号tsvy5321密码620356
 
@@ -102,6 +110,10 @@
 ## 优酷土豆会员账号
 
 ```
+7.5
+选微博登录bykeco719875@game.weibo.com密码wuvo65213
+选微博登录weurvx401702@game.weibo.com密码bxzd90539
+
 7.4
 选微博登录bykeco719875@game.weibo.com密码wuvo65213
 选微博登录weurvx401702@game.weibo.com密码bxzd90539
@@ -115,6 +127,10 @@
 ## 芒果会员tv
 
 ```
+7.5
+选微博登录ppzcb97021@163.com密码tttt5555
+选微博登录ieu808428@163.com密码tttt5555
+
 7.4
 选微博登录ykt2453939tu@163.com密码tttt5555
 选微博登录bnkj2846051jia@163.com密码tttt5555
