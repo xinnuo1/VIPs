@@ -35,26 +35,24 @@
 ## 迅雷
 
 ```
+7.8
+账号1634291312密码87aN4329
+账号1634291301密码a593N477
+账号1634291303密码2f9Z8262
+
 7.7
 账号1634291264密码7y2C2843
 账号1634291257密码8e9245G3
 账号1634291254密码64248i7M
-
-7.6
-账号liaoyan383密码54558660
-账号zaide455密码54558660
-账号qinyou844密码54558660
-
-7.5
-账号qiangbeng580密码54558660
-账号tuocong395密码54558660
-账号zhunlang252密码54558660
 
 ```
 
 ## 哔哩哔哩大会员
 
 ```
+7.8
+账号gtxp8124密码386703
+
 7.7
 账号krjg2370密码642057
 
@@ -99,20 +97,12 @@
 ## 优酷土豆会员账号
 
 ```
-7.7
+7.8
 选微博登录gtqtqh376539@game.weibo.com密码raox01921
 选微博登录weurvx401702@game.weibo.com密码bxzd90539
 
-7.5
-选微博登录bykeco719875@game.weibo.com密码wuvo65213
-选微博登录weurvx401702@game.weibo.com密码bxzd90539
-
-7.4
-选微博登录bykeco719875@game.weibo.com密码wuvo65213
-选微博登录weurvx401702@game.weibo.com密码bxzd90539
-
-7.3
-选微博登录bykeco719875@game.weibo.com密码wuvo65213
+7.7
+选微博登录gtqtqh376539@game.weibo.com密码raox01921
 选微博登录weurvx401702@game.weibo.com密码bxzd90539
 
 ```
@@ -120,21 +110,13 @@
 ## 芒果会员tv
 
 ```
+7.8
+选微博登录lieshao244333@163.com密码tttt5555
+选微博登录fv5210234hang@163.com密码tttt5555
+
 7.7
 选微博登录16564695617密码asd123456
 选微博登录18452497919密码asd123456
-
-7.5
-选微博登录ppzcb97021@163.com密码tttt5555
-选微博登录ieu808428@163.com密码tttt5555
-
-7.4
-选微博登录ykt2453939tu@163.com密码tttt5555
-选微博登录bnkj2846051jia@163.com密码tttt5555
-
-7.3
-选微博登录ij8352311yamoren6@163.com密码tttt5555
-选微博登录v7097060jiapiaom@163.com密码tttt5555
 
 ```
 
